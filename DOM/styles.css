@@ -1,0 +1,18 @@
+body{
+    background-color: beige;
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: 0;
+}
+
+input{
+    width: 148;
+    height: 100;
+    margin-top: 1rem;
+}
